@@ -1,3 +1,3 @@
 # easy_fb_phising
-Easy phising clone of facebook login page
+Easy working phising clone of facebook login page using php, html, css;
 only for learning purpose
